@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gajal636
-- i'm interested in discovering new skills
-- 🌱 I’m currently studying at Government Polytechnic College,Satna
+- i'm interested in discovering new skills.
+- 🌱 I’m attendent at Government Polytechnic College,Satna
+- I have done Internship/Certification as CLOUD ENGINEER from ROSTRIS INFOTECH PRIVATE LIMITED. 
 -
 
 <!---
