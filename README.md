@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Gajal636
-- i'm interested in discovering new skills.
-- 🌱 I’m attendant at Institute of Engineering and Technology ,Indore
-- I have done Internship/Certification as CLOUD ENGINEER from ROSTRIS INFOTECH PRIVATE LIMITED. 
+- Tech enthusiastst ,interested in discovering new skills.
+- attendant at Institute of Engineering and Technology ,Indore(M.P.)
+- have done Internship/Certification as CLOUD ENGINEER from ROSTRIS INFOTECH PRIVATE LIMITED.
+- Attended WebSprint(4 Hours Hackathon) as a "Host".
 
 
 
