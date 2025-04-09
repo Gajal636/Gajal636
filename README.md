@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gajal636
+- 👋 Hi, This is @Gajal636
 - Tech enthusiastst ,interested in discovering new skills.
 - attendant at Institute of Engineering and Technology ,Indore(M.P.)
 - have done Internship/Certification as CLOUD ENGINEER from ROSTRIS INFOTECH PRIVATE LIMITED.
