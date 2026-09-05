@@ -4,7 +4,7 @@
 
 **Full-Stack Developer | MERN Stack Enthusiast | Cloud & AI Learner**
 
-[📧 Email](mailto:gajalk636@gmail.com) • [LinkedIn](https://linkedin.com/in/gajal-gupta) • [GitHub](https://github.com)
+[📧 Email](mailto:gajalk636@gmail.com) • [LinkedIn](https://www.linkedin.com/in/gajal-gupta636/) • [GitHub](https://github.com/gajal636)
 
 </div>
 
