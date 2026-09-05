@@ -132,9 +132,9 @@ An efficient task management system with intuitive UI and robust backend archite
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gajal636&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gajal636&layout=compact&theme=tokyonight)
 
 ---
 
@@ -152,8 +152,8 @@ An efficient task management system with intuitive UI and robust backend archite
 Feel free to reach out if you'd like to collaborate, discuss tech, or just say hello!
 
 - 📧 **Email:** gajalk636@gmail.com
-- 💼 **LinkedIn:** [Gajal Gupta](https://linkedin.com/in/gajal-gupta)
-- 🐙 **GitHub:** [@YOUR_USERNAME](https://github.com)
+- 💼 **LinkedIn:** [Gajal Gupta](https://www.linkedin.com/in/gajal-gupta636/)
+- 🐙 **GitHub:** [@Gajal636](https://github.com)
 
 ---
 
