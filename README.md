@@ -72,7 +72,7 @@ A comprehensive financial management tool with intelligent spending insights and
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, JWT
 
-🔗 **[Live Demo](https://personal-finance-tracker-app.onrender.com)**
+
 
 ---
 
@@ -88,7 +88,7 @@ An efficient task management system with intuitive UI and robust backend archite
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, REST API
 
-🔗 **[Live Demo](https://smart-task-manager-app.onrender.com)**
+
 
 ---
 
